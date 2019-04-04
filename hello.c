@@ -1,4 +1,5 @@
-#include<stdio.h>
+//jumpstart
+//#include<stdio.h>
 int add(int,int);
 int main()
 {
